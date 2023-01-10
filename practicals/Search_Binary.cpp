@@ -29,7 +29,6 @@ int main(){
     int key;
     cout<<"Enter the find element:";
     cin>>key;
-    cout<<key<<" is at index "binarySearch(arr,n,key);
-    return 0;
-}
+    cout<<key<<" is at index "<<binarySearch(arr,n,key);
+cout<<"\n21DCE052";return 0; }
 

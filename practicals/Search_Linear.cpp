@@ -22,5 +22,4 @@ int main(){
     cout<<"Enter the find element:";
     cin>>key;
     cout<<key<<" is at index "<<linearSearch(arr,n,key);
-    return 0;
-}
+cout<<"\n21DCE052";return 0; }
